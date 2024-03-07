@@ -1,0 +1,11 @@
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\bin\Debug\Barbie Calc Final.exe.config
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\bin\Debug\Barbie Calc Final.exe
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\bin\Debug\Barbie Calc Final.pdb
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie Calc Final.csproj.AssemblyReference.cache
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie Calc Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie_Calc_Final.Form1.resources
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie_Calc_Final.Properties.Resources.resources
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie Calc Final.csproj.GenerateResource.cache
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie Calc Final.csproj.CoreCompileInputs.cache
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie Calc Final.exe
+C:\Users\Jermzu\source\repos\Barbie Calc Final\Barbie Calc Final\obj\Debug\Barbie Calc Final.pdb
